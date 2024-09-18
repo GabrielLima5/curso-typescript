@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/GabrielLima5/curso-typescript/blob/main/certificate/certificate.png" alt="Certificado TypeScript">
+</p>
+
 # <p align="center">Dominando TypeScript - Hcode</p>
 
 Este repositório registra minha jornada de aprendizado durante o curso de TypeScript, realizado entre junho e agosto de 2024. Ele contém todos os arquivos e recursos relacionados ao curso, incluindo códigos de exemplo, exercícios práticos e projetos desenvolvidos.
